@@ -2,7 +2,7 @@
 # Install
 
 + Clone this repo
-+ `python3 -m venv env && source env/bin/active`
++ `python3 -m venv env && source env/bin/activate`
 + `pip install -r requirements.txt`
 
 
